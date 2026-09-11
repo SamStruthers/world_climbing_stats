@@ -1,2 +1,13 @@
 # world_climbing_stats
-This repo will be used to create an app to display world climbing results and novel stats for competition climbing
+
+This repository contains an R Shiny app scaffold for world competition climbing stats.
+
+## Data source
+
+Competition result data will come from:
+- https://ifsc.results.info/
+
+## App location
+
+The deployed app link will be added here when available:
+- TBD
